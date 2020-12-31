@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "@helpers/": "./lib/helpers/",
+    "@lib/": "./lib/",
+    "@plugins/": "./lib/plugins/",
+    "@typedefs/": "./lib/typedefs/",
+    "oak/": "https://deno.land/x/oak@v6.4.1/",
+    "nanoid/lib.ts": "https://cdn.skypack.dev/nanoid"
+  }
+}
